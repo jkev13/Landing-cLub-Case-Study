@@ -15,5 +15,5 @@ The company can utilize this knowledge for risk assessment.
 
 
 ## Contributors:
--Dipin Narayanan
--Jishnu Krishnan
+- Dipin Narayanan
+- Jishnu Krishnan
