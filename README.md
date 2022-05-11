@@ -1,7 +1,8 @@
 # Lending Club Case Study
 
 ## General Information
-- The case study focuses on EDA mainly, to understand which parameters are major to detect whether a customer will default loan or not. Pesented a PPT to illustrate the major parameter to consider while giving loans along their data distributions.
+- When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Our aim is to identify patterns that indicate if a person is likely to default using loan data issued through the time period 2007 – 2011.
+The company can utilize this knowledge for risk assessment.
 
 
 ## Conclusions
@@ -13,6 +14,6 @@
 
 
 
-Contributors:
+## Contributors:
 -Dipin Narayanan
 -Jishnu Krishnan
